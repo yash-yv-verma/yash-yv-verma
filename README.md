@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/pulse-ring.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/pulse-ring.svg" width="60"/>
 </p>
 
 ---
