@@ -22,11 +22,11 @@ I'm currently a **Software Engineering Intern at <span style="color:#A435F0">Ude
 
 ### 🚀 Selected Work
 
-#### 📍 [Math.AI](https://yash-verma.com)  
+#### 📍 [Math.AI](https://github.com/yash-yv-verma/W2V4K) 
 AI chatbot designed for 2nd–8th grade students to learn mathematics in a friendly, guided, and accessible way.  
 Utilizes OpenAI APIs and cloud deployment for real-time, curriculum-aligned math help.
 
-#### 📍 Word2Vec4Kids  
+#### 📍 [Word2Vec4Kids](https://github.com/yash-yv-verma/W2V4K)
 Research project and educational game designed to enhance vocabulary development using word embeddings and semantic similarity.  
 Published and presented at EAAI-25.
 
