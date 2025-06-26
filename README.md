@@ -45,5 +45,5 @@ Published and presented at EAAI-25.
 <p align="left">
   🌐 Website: <a href="https://yash-verma.com" target="_blank" rel="noopener noreferrer">yash-verma.com</a> <br> 
   💼 LinkedIn: <a href="https://linkedin.com/in/-yv" target="_blank" rel="noopener noreferrer">linkedin.com/in/-yv</a>  <br>
-  📩 Email: yash@yash-verma.com  
+  📩 Email: <a href="mailto:yash@yash-verma.com" target="_blank" rel="noopener noreferrer">yash@yash-verma.com</a>  
 </p>
