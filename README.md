@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/blocks-shuffle-3.svg" width="60"/>
+  <img src="https://https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/pulse-ring.svg" width="60"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Published and presented at EAAI-25.
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,react,nextjs,ts,js,git,linux,firebase,openai" />
+  <img src="https://skillicons.dev/icons?i=python,java,swift,nextjs,aws,git,linux,kubernetes,docker" />
 </p>
 
 ---
@@ -43,20 +43,7 @@ Published and presented at EAAI-25.
 ### 📬 Let's Connect
 
 <p align="left">
-  🌐 Website: <a href="https://yash-verma.com" target="_blank">yash-verma.com</a>  
-  💼 LinkedIn: <a href="https://linkedin.com/in/yashverma-cs" target="_blank">linkedin.com/in/yashverma-cs</a>  
+  🌐 Website: <a href="https://yash-verma.com" target="_blank">yash-verma.com</a> <br> 
+  💼 LinkedIn: <a href="https://linkedin.com/in/yashverma-cs" target="_blank">linkedin.com/in/yashverma-cs</a>  <br>
   📩 Email: yash@yash-verma.com  
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/pulse-ring.svg" width="50" />
-  <br>
-  <em>"Build to teach. Code to explore."</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-yv-verma&label=Profile+Views&color=0e75b6&style=flat" alt="view count" />
-</p>
-
