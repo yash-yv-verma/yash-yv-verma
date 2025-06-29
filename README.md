@@ -22,7 +22,7 @@ I'm currently a **Software Engineering Intern at <span style="color:#A435F0">Ude
 
 ### 🚀 Selected Work
 
-#### 📍 [Math.AI](https://github.com/yash-yv-verma/W2V4K) 
+#### 📍 [Math.AI](https://github.com/yash-yv-verma/Math.AI) 
 AI chatbot designed for 2nd–8th grade students to learn mathematics in a friendly, guided, and accessible way.  
 Utilizes OpenAI APIs and cloud deployment for real-time, curriculum-aligned math help.
 
