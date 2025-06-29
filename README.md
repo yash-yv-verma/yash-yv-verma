@@ -35,7 +35,7 @@ Published and presented at EAAI-25.
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,swift,nextjs,aws,git,linux,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,swift,nextjs,aws,git,linux,kubernetes,docker,terraform" />
 </p>
 
 ---
