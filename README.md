@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yash Verma 👋</h1>
 <p align="center">
-  <b>CS + Mathematics Student @ UTSA</b> • <b>Software Engineer Intern @ <span style="color:#A435F0">Udemy</span></b>  
+  <b>CS + Mathematics Student @ UTSA</b> • <b>Former Software Engineer Intern @ <span style="color:#A435F0">Udemy</span></b>  
   <br>
-  <b>Researcher in AI @ UT San Antonioy</b>
+  <b>Undergraduate Researcher @ CloudSys Lab, UT San Antonio CS Dept.</b>
 </p>
 
 <p align="center">
