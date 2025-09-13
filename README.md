@@ -2,7 +2,7 @@
 <p align="center">
   <b>CS + Mathematics Student @ UTSA</b> • <b>Software Engineer Intern @ <span style="color:#A435F0">Udemy</span></b>  
   <br>
-  <b>Researcher in AI for Education & Quantum Cryptography</b>
+  <b>Researcher in AI @ UT San Antonioy</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 I'm a senior at the University of Texas at San Antonio, majoring in Computer Science and Mathematics of Data & Computing.  
 My work spans **AI for Education**, **Quantum Information**, and **developer experience at scale**.
 
-I'm currently a **Software Engineering Intern at <span style="color:#A435F0">Udemy</span>** on the Design Systems Engineering team, and serve as **Director of Rowdy Creators**, a UTSA-based student tech incubator.
+Former **Software Engineering Intern at <span style="color:#A435F0">Udemy</span>** on the Design Systems Engineering team I currently serve as the **Director of Rowdy Creators**, a UTSA-based student tech incubator.
 
 ---
 
