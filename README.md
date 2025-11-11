@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 I'm a senior at the University of Texas at San Antonio, majoring in Computer Science and Mathematics of Data & Computing.  
-My work spans **AI for Education**, **Quantum Information**, and **developer experience at scale**.
+My work spans **AI for Infrastructure**, **AI in educationn**, and **developer experience at scale**.
 
 Former **Software Engineering Intern at <span style="color:#A435F0">Udemy</span>** on the Design Systems Engineering team I currently serve as the **Director of Rowdy Creators**, a UTSA-based student tech incubator.
 
