@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash Verma 👋</h1>
+<h1 align="center">Hi, I'm Yash Verma</h1>
 <p align="center">
   <b>CS + Mathematics Student @ UTSA</b> • <b>Former Software Engineer Intern @ <span style="color:#A435F0">Udemy</span></b>  
   <br>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a senior at the University of Texas at San Antonio, majoring in Computer Science and Mathematics of Data & Computing.  
 My work spans **AI for Infrastructure**, **AI in educationn**, and **developer experience at scale**.
@@ -20,19 +20,19 @@ Former **Software Engineering Intern at <span style="color:#A435F0">Udemy</span>
 
 ---
 
-### 🚀 Selected Work
+### Selected Work
 
-#### 📍 [Math.AI](https://github.com/yash-yv-verma/Math.AI) 
+####  [Math.AI](https://github.com/yash-yv-verma/Math.AI) 
 AI chatbot designed for 2nd–8th grade students to learn mathematics in a friendly, guided, and accessible way.  
 Utilizes OpenAI APIs and cloud deployment for real-time, curriculum-aligned math help.
 
-#### 📍 [Word2Vec4Kids](https://github.com/yash-yv-verma/W2V4K)
+####  [Word2Vec4Kids](https://github.com/yash-yv-verma/W2V4K)
 Research project and educational game designed to enhance vocabulary development using word embeddings and semantic similarity.  
 Published and presented at EAAI-25.
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,swift,nextjs,aws,git,linux,kubernetes,docker,terraform" />
@@ -40,7 +40,7 @@ Published and presented at EAAI-25.
 
 ---
 
-### 📬 Let's Connect
+###  Let's Connect
 
 <p align="left">
   🌐 Website: <a href="https://yash-verma.com" target="_blank" rel="noopener noreferrer">yash-verma.com</a> <br> 
